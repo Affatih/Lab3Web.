@@ -11,6 +11,7 @@ Pada hari ke-4 pembelajaran HTML ini, saya membuat Formulir Pendaftaran sederhan
 Tujuannya adalah memahami struktur dasar dari tag <form>, <input>, <label>, dan <textarea> dalam pembuatan form di halaman web.
 ```
 
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
